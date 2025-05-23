@@ -1,0 +1,33 @@
+USERNAME:das
+PASSWORD:sadasda
+Address:dsadas|d|saddas|21
+PRODUCT:1011|d|21|clothing|Special Package
+PRODUCT:1012|x|2|clothing|Regular Package
+END SELLER
+USERNAME:danie
+PASSWORD:hisa213
+Address:das|das|sda|312
+PRODUCT:1005|dsadas|312|kids|Regular Package
+PRODUCT:1006|dsa|2133|clothing|Special Package
+END SELLER
+USERNAME:daniel
+PASSWORD:N45Pe
+Address:hofit|israel|hashaf|14
+PRODUCT:1002|VR|499|clothing|Special Package
+PRODUCT:1003|shogun|99|kids|Regular Package
+END SELLER
+USERNAME:ran oram
+PASSWORD:Do26n
+Address:kfar yona|israel|hashita|11
+PRODUCT:1000|NES|65|kids|Special Package
+PRODUCT:1001|ps2|588|kids|Regular Package
+PRODUCT:1004|ball|16.587|clothing|Regular Package
+END SELLER
+USERNAME:tal
+PASSWORD:dsa21
+Address:kfar yona|israel|hashita|22
+PRODUCT:1007|VR|23|clothing|Regular Package
+PRODUCT:1008|BOOK|3|office|Regular Package
+PRODUCT:1009|SHELF|312|office|Special Package
+PRODUCT:1010|ew|312|clothing|Special Package
+END SELLER

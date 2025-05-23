@@ -1,0 +1,70 @@
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe.config
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.AssemblyReference.cache
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Add_User.resources
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Form1.resources
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Properties.Resources.resources
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.GenerateResource.cache
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.CoreCompileInputs.cache
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_To_Seller.resources
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_to_Buyer.resources
+C:\Users\ranor\Desktop\מטלות ב שארפ\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.User_sData.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe.config
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Add_User.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Form1.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_to_Buyer.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_To_Seller.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Properties.Resources.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.User_sData.resources
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.CoreCompileInputs.cache
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe.config
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.AssemblyReference.cache
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Add_User.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Form1.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_to_Buyer.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_To_Seller.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Properties.Resources.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.User_sData.resources
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.GenerateResource.cache
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.CoreCompileInputs.cache
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe.config
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.AssemblyReference.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Add_User.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Form1.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_to_Buyer.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_To_Seller.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Properties.Resources.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.User_sData.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.GenerateResource.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.CoreCompileInputs.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe.config
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\bin\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.AssemblyReference.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Add_User.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Form1.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_to_Buyer.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Product_To_Seller.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.Properties.Resources.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.User_sData.resources
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.GenerateResource.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.csproj.CoreCompileInputs.cache
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.exe
+C:\Users\ranor\Desktop\זיפים סי שארפ להגשה\קבצים מהמודל לבדיקה\Q5_Ran_Uram_Daniel_Geron\Q5_Ran_Uram_Daniel_Geron\obj\Debug\Q5_Ran_Uram_Daniel_Geron.pdb
